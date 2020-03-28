@@ -9,6 +9,7 @@ pylint = "*"
 [packages]
 flask-restful = "*"
 flask = "*"
+typed-ast = ">=1.4.0"
 
 [requires]
 python_version = "3.7"
