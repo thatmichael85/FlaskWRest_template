@@ -16,7 +16,6 @@ class HelloWorld(Resource):
     def get(self):
         return {'Hello': 'World'}
 
-
 #main
 if __name__ == "__main__":
     #Add rest API and define its route
